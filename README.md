@@ -4,6 +4,7 @@ The task is quite a simple one. This repository will contain names of all the pe
 
 1. [Arighna Chakrabarty](https://github.com/ArighnaIITG)
 2. [Vivek Raj](https://github.com/codervivek)
+3. [Abhinav Anand](https://github.com/abhinav28071999)
 
 .. and so on.
 
